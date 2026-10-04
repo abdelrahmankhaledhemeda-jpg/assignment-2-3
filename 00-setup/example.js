@@ -42,3 +42,4 @@ export { getExampleStudent };
 // Your turn: open exercise.js in this folder.
 console.log("");
 console.log("Next: fill in 00-setup/exercise.js, then run: npm test 00");
+
